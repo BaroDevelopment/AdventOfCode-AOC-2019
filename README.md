@@ -1,3 +1,5 @@
 # AdventOfCode2019
 
-Visit the packages to see the tasks and solutions
+Visit the src package to see the tasks and solutions
+
+Coded in Java

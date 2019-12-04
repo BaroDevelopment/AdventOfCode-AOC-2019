@@ -12,7 +12,7 @@ public class TyrannyRocketEquation {
 
     public static void main(String[] args) throws IOException {
         TyrannyRocketEquation app = new TyrannyRocketEquation();
-        String fileName = "input.txt";
+        String fileName = "day1.txt";
         ClassLoader classLoader = TyrannyRocketEquation.class.getClassLoader();
         File file = app.getFileFromResources(fileName);
         List<Integer> values = getValues(file);
